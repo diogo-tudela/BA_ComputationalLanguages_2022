@@ -1,1 +1,1 @@
-# Computational Langauges 2022 — 2023
+# Computational Languages 2022 — 2023
